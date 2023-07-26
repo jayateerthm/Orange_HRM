@@ -22,10 +22,10 @@ public void setUp()
 	loginorangehrm=new Login_Orangehrm();
 }
 //@Test
-/*public void loginTest()
+public void loginTest()
 {
 	loginorangehrm.login("Admin", "admin123");
-}*/
+}
 @Test
 public void loginTest()
 {
