@@ -21,7 +21,7 @@ public void setUp()
 	initialization();
 	loginorangehrm=new Login_Orangehrm();
 }
-//@Test
+@Test
 public void loginTest()
 {
 	loginorangehrm.login("Admin", "admin123");
