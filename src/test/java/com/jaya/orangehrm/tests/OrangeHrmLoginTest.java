@@ -27,7 +27,7 @@ public void loginTest()
 	loginorangehrm.login("Admin", "admin123");
 }
 @Test
-public void loginTest()
+public void loginTest1()
 {
 	homepage=loginorangehrm.login(pro.getProperty("Username"), pro.getProperty("Password"));
 }
